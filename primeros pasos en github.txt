@@ -1,2 +1,4 @@
 
 privado string atributo1
+
+privado string atributo2
