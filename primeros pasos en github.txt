@@ -1,0 +1,2 @@
+
+privado string atributo1
